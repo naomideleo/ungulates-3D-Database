@@ -28,9 +28,6 @@ and photogrammetry, and analysed with geometric morphometrics (GMM).
 
 ## Contact
 Naomi De Leo — naomi.deleo@uniroma1.it
-Macroecology & Conservation Lab (Prof. Luigi Maiorano)
-Sapienza University of Rome, Dept. of Biology and Biotechnologies
-🔗 https://maioranolab.com/
 
 Biogeography & Macroecology Lab (Prof. Luigi Maiorano)
 Sapienza University of Rome, Dept. of Biology and Biotechnologies
